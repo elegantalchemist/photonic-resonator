@@ -21,3 +21,7 @@ A self-blinking matrix of LEDS forming a 'supercomputer' which can calculate wha
 * Add the control mechanisms - for simplicity in order your 5V should go through your on/off switch, reset button, rotary selector and the rotary selector output options be wired into whichever of the 3 pad 5v/D1/D2/D3 options you feel you like best. You could also add complexity by using the on/off pushbutton as a selctable toggle switch along with the rotary selector to choose a different set of output pins as well for example.
 * -----to do - draw schematic----
 * Assemble all the bits into a case of your choosing, done!
+
+## Credits
+Many thanks to MWWorks who posted their PCB and Baffle designs which have been modified and redesigned for this project
+[MWWorks Gallium Photonic Computer](https://github.com/MWWorks/gallium-photonic-computer)

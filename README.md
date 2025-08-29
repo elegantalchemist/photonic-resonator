@@ -23,5 +23,5 @@ A self-blinking matrix of LEDS forming a 'supercomputer' which can calculate wha
 * Assemble all the bits into a case of your choosing, done!
 
 ## Credits
-Many thanks to MWWorks who posted their PCB and Baffle designs which have been modified and redesigned for this project
+Many thanks to MWWorks who posted their PCB and Baffle designs which have been modified and redesigned for this project  
 [MWWorks Gallium Photonic Computer](https://github.com/MWWorks/gallium-photonic-computer)

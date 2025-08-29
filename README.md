@@ -17,7 +17,7 @@ A self-blinking matrix of LEDS forming a 'supercomputer' which can calculate wha
 * **Case** No files here as I made it from wood - you could quite easily design and print something by 3D printing. My wood case is a simple long strip of wood with a 3mm channel cut into it for the perspex and 4 mitred corners to bring it into a box. Back plate is a piece of scrap ply cut to size placed in a rebate.
 
 ## Assembly
-* Fairly straightforward - solder all your LEDs to your PCB. Test and ensure all working, they will happily self blink provided a 5V input to the input pads, and self blink with less brightness at each of the D1, D2, D3 in options.
+* Fairly straightforward - solder all your LEDs to your PCB taking care to respect polarity and that each LED is snug against the board and neatly centred - the baffles require the LEDS to have quite tight install tolerances. Test and ensure all working, they will happily self blink provided a 5V input to the input pads, and self blink with less brightness at each of the D1, D2, D3 in options.
 * Add the control mechanisms - for simplicity in order your 5V should go through your on/off switch, reset button, rotary selector and the rotary selector output options be wired into whichever of the 3 pad 5v/D1/D2/D3 options you feel you like best. You could also add complexity by using the on/off pushbutton as a selctable toggle switch along with the rotary selector to choose a different set of output pins as well for example.
 * -----to do - draw schematic----
 * Assemble all the bits into a case of your choosing, done!
